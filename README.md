@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SalesSpark ⚡
 ### Enterprise Big Data Analytics & Customer Segmentation Engine powered by Apache Spark
 
@@ -223,3 +224,7 @@ This repository includes academic presentation materials:
 This project is licensed under the MIT License - see the LICENSE file for details.
 #   S a l e s S p a r k s  
  
+=======
+# SalesSpark
+Big Data Analytics Project SalesSpark
+>>>>>>> 9257bfd8d49c4db4dbbf80698dd59c8d0e48e463
